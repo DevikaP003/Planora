@@ -1,0 +1,6 @@
+{
+  "name": "Planora",
+  "description": "Planora — Vibrant, minimal AI travel planner for personalized day-by-day itineraries, packing checklists, and saved trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
